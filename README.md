@@ -15,10 +15,11 @@
 
 **项目持续更新中......**
 
-| 类型     | 题型                                                         |
-| -------- | ------------------------------------------------------------ |
-| 数据结构 | [Interview-3：数组中重复的数字](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-3.md) |
-| 数据结构 | [Interview-4：二维数组中的查找](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-4.md) |
+| 类型     | 题型                                                         | 作者                                    |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| 数据结构 | [Interview-3：数组中重复的数字](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-3.md) | [@mantchs](https://github.com/NLP-LOVE) |
+| 数据结构 | [Interview-4：二维数组中的查找](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-4.md) | [@mantchs](https://github.com/NLP-LOVE) |
+| 数据结构 | [Interview-5：字符串替换空格](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-5.md) | [@mantchs](https://github.com/NLP-LOVE) |
 
 
 
