@@ -28,6 +28,7 @@ class Node():
         self.rightNode = None
 
 
+## 构建二叉树
 def struct_tree(pre_list, middle_list):
     
     if len(pre_list) == 2:
@@ -36,10 +37,19 @@ def struct_tree(pre_list, middle_list):
         node = Node(pre_list[0])
         #左叶子节点
         if pre_list[0] == middle_list[1]:
-            node.leftNode = pre_list[1]
+            left_node = Node(pre_list[1])
+            node.leftNode = left_node
         else:
             # 右叶子节点
-            node.rightNode = pre_list[1]
+            right_node = Node(pre_list[1])
+            node.rightNode = right_node
+        
+        ## 添加父节点
+        if node.leftNode != None:
+            node.leftNode.parentNode = node
+        if node.rightNode != None:
+            node.rightNode.parentNode = node
+            
         return node
     else:
         ## 递归调用
@@ -55,16 +65,24 @@ def struct_tree(pre_list, middle_list):
             left_middle_list = middle_list[0 : middle_root_index]
             node.leftNode = struct_tree(left_pre_list, left_middle_list)
         elif middle_root_index == 1:
-            node.leftNode = middle_list[0]
-        å
+            left_node = Node(middle_list[0])
+            node.leftNode = left_node
+        
         # 右子树
         if middle_root_index < len(pre_list) - 2:
             right_pre_list = pre_list[middle_root_index + 1 : ]
             right_middle_list = middle_list[middle_root_index + 1 : ]
             node.rightNode = struct_tree(right_pre_list, right_middle_list)
         elif middle_root_index == len(pre_list) - 2:
-            node.rightNode = middle_list[len(pre_list) - 1]
+            right_node = Node(middle_list[len(pre_list) - 1])
+            node.rightNode = right_node
         
+        ## 添加父节点
+        if node.leftNode != None:
+            node.leftNode.parentNode = node
+        if node.rightNode != None:
+            node.rightNode.parentNode = node
+            
         return node
 
 pre_list = [1, 2, 4, 7, 3, 5, 6, 8]
