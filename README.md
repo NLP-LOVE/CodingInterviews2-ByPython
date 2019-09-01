@@ -23,6 +23,7 @@
 | 数据结构 | [Interview-6：从尾到头打印链表](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-6.md) | [@mantchs](https://github.com/NLP-LOVE) |
 | 数据结构 | [Interview-7：重建二叉树](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-7.md) | [@mantchs](https://github.com/NLP-LOVE) |
 | 数据结构 | [Interview-8：二叉树中序遍历的下一个节点](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-8.md) | [@mantchs](https://github.com/NLP-LOVE) |
+| 数据结构 | [Interview-9：用两个栈实现队列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-9.md) | [@mantchs](https://github.com/NLP-LOVE) |
 
 
 
