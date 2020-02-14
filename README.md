@@ -9,7 +9,9 @@
 
 **有意向一起完成此项目或者有问题、有补充的可以加入《剑指offer》讨论群【818185620】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8c188e86e0eac4a214861c2c706a9c0baf75176e16e52f07b8a64d1a13f99a0d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="《剑指offer》讨论群" title="《剑指offer》讨论群"></a>**
 
+- **请关注 AIArea 公众号：算法工程师**
 
+- ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
 
 
 ## 目录
@@ -27,7 +29,6 @@
 | 数据结构 | [Interview-9：用两个栈实现队列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-9.md) | [@mantchs](https://github.com/NLP-LOVE) |
 | 数据结构 | [Interview-10：斐波那契数列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-10.md) | [@mantchs](https://github.com/NLP-LOVE) |
 
-![](https://raw.githubusercontent.com/NLP-LOVE/CodingInterviews2-ByPython/master/img/2020-2-14_10-42-38.png)
 
 
 
