@@ -192,3 +192,6 @@ s.findRepeatNumber(input_array)
 输入数组不合法！
 输入数组不合法！
 ```
+
+![](https://raw.githubusercontent.com/NLP-LOVE/CodingInterviews2-ByPython/master/img/2020-2-14_10-42-38.png)
+
