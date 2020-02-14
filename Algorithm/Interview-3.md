@@ -15,7 +15,9 @@
 3. 如果它和第 m 个数字相等，就找到了一个重复的数字(该数字在下标为 i 和 m 的位置都出现了);
 4. 如果它和第 m 个数字不相等，就把第 i 个数字和第 m 个数字交换，把 m 放到属于它的位置。接下来再重复这个比较、交换的过程，直到我们发现一一个重复的数字。
 
-**时间复杂度 O(n)，空间复杂度 O(1)**
+**时间复杂度 O(n)，空间复杂度 O(1)，以下代码可提交至：**
+
+[https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 ```python
 from typing import List
