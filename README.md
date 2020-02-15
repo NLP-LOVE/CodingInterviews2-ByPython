@@ -28,7 +28,7 @@
 | 数据结构 | [Interview-8：二叉树中序遍历的下一个节点](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-8.md) |
 | 数据结构 | [Interview-9：用两个栈实现队列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-9.md) |
 | 数据结构 | [Interview-10：斐波那契数列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-10.md) |
-| 数据结构 | [Inverview59：队列的最大值](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Inverview-59.md) |
+| 数据结构 | [Inverview-59：队列的最大值](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Inverview-59.md) |
 
 
 
