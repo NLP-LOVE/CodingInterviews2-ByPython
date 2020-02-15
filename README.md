@@ -18,16 +18,18 @@
 
 **项目持续更新中......**
 
-| 类型     | 题型                                                         | 作者                                    |
-| -------- | ------------------------------------------------------------ | --------------------------------------- |
-| 数据结构 | [Interview-3：数组中重复的数字](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-3.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-4：二维数组中的查找](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-4.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-5：字符串替换空格](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-5.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-6：从尾到头打印链表](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-6.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-7：重建二叉树](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-7.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-8：二叉树中序遍历的下一个节点](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-8.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-9：用两个栈实现队列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-9.md) | [@mantchs](https://github.com/NLP-LOVE) |
-| 数据结构 | [Interview-10：斐波那契数列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-10.md) | [@mantchs](https://github.com/NLP-LOVE) |
+| 类型     | 题型                                                         |
+| -------- | ------------------------------------------------------------ |
+| 数据结构 | [Interview-3：数组中重复的数字](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-3.md) |
+| 数据结构 | [Interview-4：二维数组中的查找](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-4.md) |
+| 数据结构 | [Interview-5：字符串替换空格](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-5.md) |
+| 数据结构 | [Interview-6：从尾到头打印链表](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-6.md) |
+| 数据结构 | [Interview-7：重建二叉树](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-7.md) |
+| 数据结构 | [Interview-8：二叉树中序遍历的下一个节点](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-8.md) |
+| 数据结构 | [Interview-9：用两个栈实现队列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-9.md) |
+| 数据结构 | [Interview-10：斐波那契数列](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-10.md) |
+| 数据结构 | [Inverview59：队列的最大值](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Inverview-59.md) |
+
 
 
 
