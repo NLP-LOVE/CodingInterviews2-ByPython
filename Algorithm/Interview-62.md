@@ -68,4 +68,4 @@ print(s.lastRemaining(n, m))
 
 
 
-![](https://gitee.com/kkweishe/images1/raw/master/ML/2020-2-14_10-42-38.png)
+![](https://raw.githubusercontent.com/NLP-LOVE/CodingInterviews2-ByPython/master/img/2020-2-14_10-42-38.png)
