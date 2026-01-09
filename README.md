@@ -7,11 +7,6 @@
 
 扎实的基本功是成为优秀程序员的前提条件，而这些体现在编程语言、数据结构和算法上，这也是此项目的初衷。帮助自己的同时也帮助各位同学在各自的道路上能够走得更远。
 
-**有意向一起完成此项目或者有问题、有补充的可以加入《剑指offer》讨论群【818185620】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8c188e86e0eac4a214861c2c706a9c0baf75176e16e52f07b8a64d1a13f99a0d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="《剑指offer》讨论群" title="《剑指offer》讨论群"></a>**
-
-- **请关注 AIArea 公众号：算法工程师**
-
-- ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
 
 
 ## 目录
@@ -32,7 +27,7 @@
 | 数据结构 | [Inverview-62：圆圈中最后剩下的数字](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/Interview-62.md) |
 | 查找     | [LeetCode-704：二分查找](https://github.com/NLP-LOVE/CodingInterviews2-ByPython/blob/master/Algorithm/LeetCode-704_binary_search.md) |
 
-
+**其他项目推荐：** [personal-llm-api 轻量级的 LLM 接口服务](https://github.com/NLP-LOVE/personal-llm-api)
 
 
 
